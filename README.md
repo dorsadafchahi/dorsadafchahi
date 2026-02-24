@@ -1,4 +1,4 @@
-## 🌙 About Me
+## ⚡ About Me
 
 I’m a Systems Engineering student at SFU, focused on embedded systems, controls, and software.
 Most of my work is in C/C++, Python, and MATLAB, plus simulation and hardware-heavy projects.
@@ -19,5 +19,5 @@ Most of my work is in C/C++, Python, and MATLAB, plus simulation and hardware-he
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_YOUR_USERNAME&show_icons=true&hide_title=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_YOUR_USERNAME&layout=compact&cache_seconds=1800)
