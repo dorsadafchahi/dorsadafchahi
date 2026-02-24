@@ -1,13 +1,12 @@
 ## ⚡ About Me
 
 I’m a Systems Engineering student at SFU, focused on embedded systems, controls, and software.
-Most of my work is in C/C++, Python, and MATLAB, plus simulation and hardware-heavy projects.
+Most of my work is in C/C++, Python, and MATLAB, plus simulation and hardware heavy projects.
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_HERE)
-[![Gmail](https://img.shields.io/badge/Gmail-dorsaahmadidafchahi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dorsaahmadidafchahi@gmail.com)
-[![SFU Email](https://img.shields.io/badge/SFU-DAA28%40sfu.ca-CC0000?style=for-the-badge)](mailto:daa28@sfu.ca)
+[![Email](https://img.shields.io/badge/SFU-DAA28%40sfu.ca-CC0000?style=for-the-badge)](mailto:daa28@sfu.ca)
 
 ## 💻 Tech Stack
 
@@ -16,8 +15,3 @@ Most of my work is in C/C++, Python, and MATLAB, plus simulation and hardware-he
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_YOUR_USERNAME&show_icons=true&hide_title=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_YOUR_USERNAME&layout=compact&cache_seconds=1800)
