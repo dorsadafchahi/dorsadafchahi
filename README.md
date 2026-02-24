@@ -6,8 +6,7 @@ Most of my work is in C/C++, Python, and MATLAB, plus simulation and hardware he
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorsa-ahmadi)  
-[dorsaahmadidafchahi@gmail.com](mailto:dorsaahmadidafchahi@gmail.com)  
-[daa28@sfu.ca](mailto:daa28@sfu.ca)
+[![SFU Email](https://img.shields.io/badge/Email-daa28%40sfu.ca-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daa28@sfu.ca)
 
 ## 💻 Tech Stack
 
