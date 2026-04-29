@@ -91,16 +91,3 @@ I enjoy building things that combine code, electronics, and physical systems, sp
 - **Living Assistant Robot:** Designed a modular assistive robot concept with a five-degree-of-freedom robotic arm, SolidWorks prototypes, Bluetooth communication, and home-assistance functionality.
 
 - **Bicycle Tire Pressure Sensor:** Arduino-based pressure monitoring system designed to track tire pressure changes and alert the rider when pressure drops below a safe range.
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dorsa-ahmadi">
-    <img src="https://img.shields.io/badge/LinkedIn-Dorsa%20Ahmadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:daa28@sfu.ca">
-    <img src="https://img.shields.io/badge/Email-daa28%40sfu.ca-CC0000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
