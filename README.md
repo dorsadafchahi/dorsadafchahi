@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dorsa Ahmadi Dafchahi 👋</h1>
+<h1 align="center">Dorsa Ahmadi Dafchahi</h1>
 
 <h3 align="center">
 Systems Engineering Graduate | Embedded Systems | Controls | Robotics | Hardware + Software Integration
@@ -11,9 +11,6 @@ Systems Engineering Graduate | Embedded Systems | Controls | Robotics | Hardware
   <a href="mailto:daa28@sfu.ca">
     <img src="https://img.shields.io/badge/Email-daa28%40sfu.ca-CC0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/dorsadafchahi">
-    <img src="https://img.shields.io/badge/GitHub-dorsadafchahi-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -22,9 +19,9 @@ Systems Engineering Graduate | Embedded Systems | Controls | Robotics | Hardware
 
 I’m a Systems Engineering graduate from Simon Fraser University with a strong interest in embedded systems, controls, robotics, software development, and hardware-software integration.
 
-My work sits at the intersection of real-world systems and practical engineering. I’ve worked on fuel cell control systems, robotic command and control software, custom PCB-based sensing systems, computer vision applications, and algorithm-heavy software projects.
+My work sits at the intersection of real-world systems and practical engineering. I’ve worked on fuel cell control systems, robotic command and control software, sensor integration, computer vision applications, algorithm-heavy software projects, and embedded systems that connect hardware with intelligent software.
 
-I enjoy building things that combine code, electronics, and physical systems, especially projects that make technology more useful, interactive, or easier to understand.
+I enjoy building things that combine code, electronics, and physical systems, especially projects that make technology more optimized, interactive, or easier for the user.
 
 ---
 
@@ -32,10 +29,11 @@ I enjoy building things that combine code, electronics, and physical systems, es
 
 - Embedded systems and microcontroller-based design  
 - Robotics, control systems, and automation  
+- Sensor integration and real-time data processing  
 - C/C++, Python, MATLAB, and C# development  
-- PCB design, circuit analysis, and sensor integration  
-- Computer vision and real-time data pipelines  
-- Hardware testing, debugging, and system validation  
+- PCB design, circuit analysis, and hardware testing  
+- Computer vision and real-time communication pipelines  
+- Hardware debugging, system validation, and technical documentation  
 
 ---
 
@@ -74,80 +72,35 @@ I enjoy building things that combine code, electronics, and physical systems, es
 
 ## 🚀 Featured Projects
 
-### 🧩 Rubik’s Cube Solver  
-Built a high-performance Rubik’s Cube solver using compact state representation, precomputed move tables, pattern databases, and an IDA* search approach inspired by Kociemba’s two-phase algorithm.
+- **Smart Breadboard, ElectroDraw:** Capstone project integrating STM32, voltage sensing, UART communication, circuit loop detection, impedance analysis, and automatic schematic generation.
 
-**Tech:** C++, Algorithms, Search Optimization, Pattern Databases
+- **Rubik’s Cube Solver:** Algorithm-focused solver using compact cube-state representation, move tables, pattern databases, and an IDA* search approach.
 
----
+- **ASL Teacher:** Real-time ASL learning system using MediaPipe Hands, OpenCV, UDP communication, Unity, and C# visualization.
 
-### 🔌 Smart Breadboard, ElectroDraw  
-Capstone design project focused on making circuit learning more interactive. Designed a custom PCB with an STM32 microcontroller and analog voltage sensing to detect circuit connections and generate schematics through UART communication.
+- **SFU Robot Soccer Club:** Robotic command and control systems, GUI enhancements, data systems, Git collaboration, code reviews, and technical documentation.
 
-**Tech:** C++, STM32, KiCad, UART, PCB Design, Circuit Analysis
+- **SCARA Robot Modeling and Kinematics:** Modeled a 4-DOF SCARA RRPR manipulator using D-H frames, symbolic homogeneous transformations, forward kinematics, inverse kinematics, and tool pose analysis.
 
----
+- **SCARA Joint-Space Trajectory Planner:** Implemented a trajectory planner that converts start, via, and goal tool poses into joint-space waypoints using inverse kinematics, then generates multi-segment motion for the robot.
 
-### 🤟 ASL Teacher  
-Developed a real-time ASL learning system using MediaPipe Hands and OpenCV to detect hand landmarks, classify static ASL letters, and visualize hand motion in Unity through a low-latency UDP pipeline.
+- **Fuel Cell Controls at Ballard Power Systems:** Supported FCvelocity-HD7 fuel cell control validation, HIL testing, P&ID documentation, Python automation, and CAN protocol integration.
 
-**Tech:** Python, OpenCV, MediaPipe, Unity, C#, UDP, JSON
+- **Water Pollution Detection System:** Embedded water-quality sensing project using turbidity sensor data, C programming, BeagleBone Green, LCD output, and real-time pollution level analysis.
 
----
+- **Living Assistant Robot:** Designed a modular assistive robot concept with a five-degree-of-freedom robotic arm, SolidWorks prototypes, Bluetooth communication, and home-assistance functionality.
 
-### 🤖 SFU Robot Soccer Club  
-Contributed to robotic command and control systems, data systems, and GUI improvements for SFU’s RoboCup Soccer team. Worked in a collaborative Git-based environment with code reviews, pair programming, and technical documentation.
-
-**Tech:** Robotics, AI, Git, GUI Development, Team-Based Software Development
+- **Bicycle Tire Pressure Sensor:** Arduino-based pressure monitoring system designed to track tire pressure changes and alert the rider when pressure drops below a safe range.
 
 ---
 
-### ⚙️ Fuel Cell Controls at Ballard Power Systems  
-Worked with systems and controls engineers on FCvelocity-HD7 fuel cell modules. Supported control system validation, HIL testing, P&ID documentation, firmware test tracking, and multi-network CAN protocol integration.
-
-**Tech:** Controls, HIL Testing, CAN Protocols, Python, P&ID, System Validation
-
----
-
-### 💧 Water Pollution Detection System  
-Designed an embedded water-quality detection system using turbidity sensing and a BeagleBone Green board. Programmed a C-based interface to process sensor data and display pollution levels on an LCD.
-
-**Tech:** C, BeagleBone Green, Sensors, LCD, Embedded Systems
-
----
-
-### 🦾 Living Assistant Robot  
-Designed a modular home-assistive robotic system for elderly users, including a five-degree-of-freedom robotic arm and mechanical prototypes developed in SolidWorks.
-
-**Tech:** SolidWorks, Robotics, Mechanical Design, Bluetooth Integration
-
----
-
-## 📊 GitHub Stats
+## 📫 Connect With Me
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dorsadafchahi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorsadafchahi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌱 Currently Building
-
-- More embedded and robotics projects  
-- Stronger C++ systems and algorithmic problem-solving skills  
-- Hardware-software projects that combine sensing, controls, and real-time visualization  
-- Clean technical documentation for projects that are easy to understand and demo  
-
----
-
-## ✨ A Bit More About Me
-
-Outside of engineering, I’m interested in automotive design, technology, fitness, snowboarding, and hands-on creative projects. I like work that blends technical depth with practical impact, especially when it involves building, testing, improving, and explaining complex systems clearly.
-
----
-
-<p align="center">
-  <b>Thanks for visiting my GitHub!</b><br>
-  Always open to connecting about embedded systems, robotics, controls, hardware design, and new grad engineering opportunities.
+  <a href="https://www.linkedin.com/in/dorsa-ahmadi">
+    <img src="https://img.shields.io/badge/LinkedIn-Dorsa%20Ahmadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:daa28@sfu.ca">
+    <img src="https://img.shields.io/badge/Email-daa28%40sfu.ca-CC0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
