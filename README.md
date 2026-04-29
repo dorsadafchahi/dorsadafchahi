@@ -21,7 +21,7 @@ I’m a Systems Engineering graduate from Simon Fraser University with a strong 
 
 My work sits at the intersection of real-world systems and practical engineering. I’ve worked on fuel cell control systems, robotic command and control software, sensor integration, computer vision applications, algorithm-heavy software projects, and embedded systems that connect hardware with intelligent software.
 
-I enjoy building things that combine code, electronics, and physical systems, especially projects that make technology more optimized, interactive, or easier for the user.
+I enjoy building things that combine code, electronics, and physical systems, specially projects that make technology more optimized, interactive, or easier for the user.
 
 ---
 
