@@ -88,6 +88,6 @@ I enjoy building things that combine code, electronics, and physical systems, sp
 
 - **Water Pollution Detection System:** Embedded water-quality sensing project using turbidity sensor data, C programming, BeagleBone Green, LCD output, and real-time pollution level analysis.
 
-- **Living Assistant Robot:** Designed a modular assistive robot concept with a five-degree-of-freedom robotic arm, SolidWorks prototypes, Bluetooth communication, and home-assistance functionality.
+- **Living Assistant Robot:** Designed a modular assistive robot concept with a 5 DOF robotic arm, SolidWorks prototypes, Bluetooth communication, and home-assistance functionality.
 
 - **Bicycle Tire Pressure Sensor:** Arduino-based pressure monitoring system designed to track tire pressure changes and alert the rider when pressure drops below a safe range.
