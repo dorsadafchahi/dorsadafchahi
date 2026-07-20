@@ -84,12 +84,6 @@ I enjoy building practical systems that connect software, hardware, data, automa
 
 ---
 
-## 💡 Professional Strengths
-
-Hardware-software integration, technical problem-solving, system testing, engineering documentation, cross-functional collaboration, customer-facing technical communication, and self-directed technical learning.
-
----
-
 ## 💼 Professional Experience
 
 ### 📡 Star Solutions  
