@@ -11,9 +11,9 @@ Engineering Science Graduate | Embedded Systems | Controls | Robotics | Automati
       alt="LinkedIn"
     />
   </a>
-  <a href="mailto:daa28@sfu.ca">
+  <a href="mailto:Dorsadafchahi@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-daa28%40sfu.ca-CC0000?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-Dorsadafchahi%40gmail.com-CC0000?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
@@ -23,25 +23,29 @@ Engineering Science Graduate | Embedded Systems | Controls | Robotics | Automati
 
 ## ⚡ About Me
 
-I’m an Engineering Science graduate from Simon Fraser University, specializing in Systems Engineering. My experience includes embedded systems, control-system validation, robotics software, hardware-software integration, sensor-based applications, and Python automation.
+I’m an Engineering Science graduate from Simon Fraser University, specializing in Systems Engineering.
 
-During my Controls Engineering co-op at Ballard Power Systems, I supported fuel-cell control validation, hardware-in-the-loop testing, CAN communication, engineering documentation, and the development of Python tools for repetitive technical workflows.
+My experience combines embedded systems, control-system validation, robotics software, technical support, automation, hardware-software integration, and customer-facing technical communication.
 
-My university, team, and personal projects have involved STM32 development, robotic kinematics, real-time sensor processing, computer vision, search algorithms, communication protocols, and user-facing engineering software.
+During my Controls Engineering co-op at Ballard Power Systems, I supported fuel-cell control validation, hardware-in-the-loop testing, CAN communication, engineering documentation, and Python automation.
 
-I enjoy building practical systems that connect software with electronics, hardware, data, and real-world processes.
+I have also contributed to robotic command-and-control software through the SFU Robot Soccer Club and worked as a Technical Specialist at Apple, helping users diagnose technical issues and understand technology in a clear and practical way.
+
+I currently work in sales and business development at Star Solutions, a Canadian telecommunications equipment manufacturer. My work includes researching infrastructure projects, identifying technical stakeholders, organizing outreach data, and developing an automation project to improve contact tracking and follow-up workflows.
+
+I enjoy building practical systems that connect software, hardware, data, automation, and real-world processes.
 
 ---
 
-## 🔧 What I Work On
+## 🔧 Current Focus
 
-- Embedded systems and microcontroller-based development
-- Robotics, control systems, and automation
 - Python scripting and workflow automation
-- Sensor integration and real-time data processing
-- Hardware-software communication and integration
-- Computer vision and real-time communication pipelines
-- Hardware debugging, system validation, and technical documentation
+- Embedded systems and microcontroller development
+- Robotics and control systems
+- Hardware-software integration
+- Sensor-based and real-time systems
+- AI-assisted productivity tools
+- Technical systems and internal process improvement
 
 ---
 
@@ -57,7 +61,7 @@ I enjoy building practical systems that connect software with electronics, hardw
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge)
 ![ModelSim](https://img.shields.io/badge/ModelSim-00599C?style=for-the-badge)
 
-### Tools & Platforms
+### Development Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -75,23 +79,32 @@ I enjoy building practical systems that connect software with electronics, hardw
 ![OrCAD](https://img.shields.io/badge/Cadence%20OrCAD-BD0000?style=for-the-badge)
 ![LTspice](https://img.shields.io/badge/LTspice-900000?style=for-the-badge)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge)
-
-### Engineering Knowledge
-
-- Embedded C/C++ and microcontroller development
-- Control systems and hardware-in-the-loop testing
-- UART, CAN, UDP, and Bluetooth communication
-- Robotic kinematics and trajectory planning
-- Circuit analysis and PCB design
-- Sensor integration and real-time data processing
-- Computer vision using OpenCV and MediaPipe
-- Technical documentation, validation, and system testing
+![BeagleBone](https://img.shields.io/badge/BeagleBone-000000?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN%20Bus-00599C?style=for-the-badge)
 
 ---
 
-## 💼 Engineering Experience
+## 💡 Professional Strengths
 
-### Ballard Power Systems | Controls Engineer Co-op
+Hardware-software integration, technical problem-solving, system testing, engineering documentation, cross-functional collaboration, customer-facing technical communication, and self-directed technical learning.
+
+---
+
+## 💼 Professional Experience
+
+### 📡 Star Solutions  
+**Sales Development Representative, International | May 2026 – Present**
+
+- Research telecommunications, wireless infrastructure, private-network, and connectivity opportunities across hospitals, ports, mining, and other industries.
+- Identify project owners, engineering firms, contractors, technical stakeholders, and decision-makers involved in infrastructure projects.
+- Organize project, company, contact, and outreach information for business-development activities.
+- Develop technical familiarity with distributed antenna systems, private 5G networks, wireless coverage, and telecommunications infrastructure.
+- Began developing a Smart Outreach & Follow-Up Agent to improve contact tracking, follow-up scheduling, and outreach workflows.
+
+---
+
+### ⚙️ Ballard Power Systems  
+**Controls Engineer Co-op | January 2023 – August 2023**
 
 - Supported control-system development and validation for the FCvelocity-HD7 fuel-cell module.
 - Conducted hardware-in-the-loop testing and investigated system behaviour using test data and engineering documentation.
@@ -99,7 +112,21 @@ I enjoy building practical systems that connect software with electronics, hardw
 - Developed Python tools to automate repetitive engineering and data-processing tasks.
 - Collaborated with controls, software, electrical, and systems engineering teams.
 
-### SFU Robot Soccer Club | Software Developer
+---
+
+### 🍎 Apple  
+**Technical Specialist | May 2022 – September 2023**
+
+- Diagnosed and resolved hardware, software, account, connectivity, and device-configuration issues.
+- Explained technical information clearly to users with different levels of technical experience.
+- Supported multiple Apple devices, operating systems, applications, and cloud-based services.
+- Balanced technical troubleshooting with customer communication in a fast-paced environment.
+- Collaborated with team members to identify solutions and improve the customer experience.
+
+---
+
+### ⚽ SFU Robot Soccer Club  
+**Software Developer | October 2024 – April 2025**
 
 - Contributed to robotic command-and-control software and operator-facing tools.
 - Improved graphical interfaces and supporting data systems.
@@ -108,57 +135,74 @@ I enjoy building practical systems that connect software with electronics, hardw
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
+
+### 🤖 Smart Outreach & Follow-Up Agent  
+**In Progress**
+
+A Python-based automation project designed to organize professional outreach and reduce repetitive follow-up work.
+
+- Uses a contact tracker and interaction log as a lightweight customer relationship management system.
+- Tracks contacts, companies, projects, previous interactions, follow-up dates, and next actions.
+- Identifies contacts requiring follow-up based on outreach history and scheduled dates.
+- Summarizes previous communication and recommends appropriate next steps.
+- Supports personalized initial and follow-up message drafting with human review.
+- Designed to support Google Calendar reminders after user approval.
+- Separates contact-tracking data from the automation logic to keep the workflow maintainable.
+
+**Planned workflow:**
+
+1. Import contact and interaction data.
+2. Identify overdue and upcoming follow-ups.
+3. Summarize the outreach history for each contact.
+4. Generate personalized message drafts.
+5. Recommend the next outreach action.
+6. Create reminders after human approval.
+
+**Technologies:** Python, Excel, pandas, data processing, workflow automation, LLM integration, Google Calendar API
+
+---
 
 ### 🔌 ElectroDraw Smart Breadboard
 
-Capstone project integrating embedded hardware, circuit analysis, communication software, and automatic schematic generation.
+A capstone system designed to identify electrical circuit connections and automatically generate a digital schematic.
 
 - Developed an STM32-based system for scanning a 60-node breadboard.
+- Supported a system capable of evaluating up to 1,770 possible node connections.
 - Used sinusoidal current injection and voltage measurements to identify circuit connectivity.
 - Implemented UART communication between the embedded hardware and desktop software.
 - Contributed to circuit-loop detection, impedance analysis, hardware testing, and debugging.
 - Helped develop a C++ interface for visualizing the generated schematic.
+- Contributed to electrical-system development, project planning, budgeting, documentation, and presentation work.
 
 **Technologies:** STM32, Embedded C/C++, UART, circuit analysis, signal measurement, hardware debugging
 
 ---
 
-### 🤖 Smart Outreach & Follow-Up Agent — In Progress
-
-Python-based automation project designed to organize professional outreach and reduce repetitive follow-up work.
-
-- Uses a contact tracker and interaction log as a lightweight CRM.
-- Identifies contacts requiring follow-up based on previous outreach and dates.
-- Summarizes communication history and recommends next actions.
-- Supports personalized initial and follow-up message drafting with human approval.
-- Designed for future Google Calendar integration and automated reminders.
-
-**Technologies:** Python, data processing, workflow automation, LLM integration, Google Calendar API
-
----
-
 ### 🤟 ASL Teacher
 
-Real-time American Sign Language learning application combining hand tracking with an interactive Unity environment.
+A real-time American Sign Language learning application combining hand tracking with an interactive Unity environment.
 
 - Used MediaPipe Hands and OpenCV to detect and process hand landmarks.
+- Structured hand-tracking information for communication between system components.
 - Transmitted recognition data through a UDP communication pipeline.
 - Developed C# and Unity components for real-time visualization and interaction.
+- Connected a Python-based vision pipeline with an interactive Unity application.
 
-**Technologies:** Python, C#, Unity, OpenCV, MediaPipe, UDP
+**Technologies:** Python, C#, Unity, OpenCV, MediaPipe, UDP, JSON
 
 ---
 
 ### 🧩 Rubik’s Cube Solver
 
-Algorithm-focused Rubik’s Cube solver designed around efficient state representation and informed search.
+An algorithm-focused Rubik’s Cube solver built around efficient state representation and informed search.
 
 - Created compact representations for cube states and possible moves.
 - Used move tables and pattern databases to improve search performance.
 - Implemented an IDA* search strategy to find solutions efficiently.
+- Applied data structures and algorithmic optimization to reduce the search space.
 
-**Technologies:** C++, data structures, search algorithms, heuristic optimization
+**Technologies:** C++, data structures, search algorithms, pattern databases, heuristic optimization
 
 ---
 
@@ -170,8 +214,9 @@ Modelled and analyzed a four-degree-of-freedom SCARA RRPR robotic manipulator.
 - Derived symbolic homogeneous transformation matrices.
 - Implemented forward and inverse kinematics.
 - Calculated joint configurations and end-effector poses.
+- Evaluated the relationship between joint variables and tool position.
 
-**Technologies:** MATLAB, robotics, D-H parameters, symbolic mathematics, kinematics
+**Technologies:** MATLAB, robotics, D-H parameters, symbolic mathematics, forward kinematics, inverse kinematics
 
 ---
 
@@ -182,7 +227,7 @@ Developed a multi-segment trajectory-planning system for a SCARA robot.
 - Converted start, intermediate, and goal tool poses into joint-space waypoints.
 - Used inverse kinematics to determine the required joint configurations.
 - Generated coordinated trajectories across multiple motion segments.
-- Evaluated position and movement continuity throughout the trajectory.
+- Evaluated joint position and movement continuity throughout the trajectory.
 
 **Technologies:** MATLAB, trajectory planning, inverse kinematics, robotics
 
@@ -190,7 +235,7 @@ Developed a multi-segment trajectory-planning system for a SCARA robot.
 
 ### 💧 Water Pollution Detection System
 
-Embedded water-quality monitoring system that evaluates turbidity measurements in real time.
+An embedded water-quality monitoring system that evaluates turbidity measurements in real time.
 
 - Interfaced a turbidity sensor with a BeagleBone Green.
 - Processed sensor measurements using C.
@@ -201,35 +246,41 @@ Embedded water-quality monitoring system that evaluates turbidity measurements i
 
 ---
 
-## 📁 Additional Projects
-
 ### 🏠 Living Assistant Robot
 
-Designed a modular home-assistance robot concept featuring:
+A modular assistive-robot concept designed to support users with everyday tasks.
 
-- A five-degree-of-freedom robotic arm
-- SolidWorks mechanical prototypes
-- Bluetooth communication
-- Interchangeable assistance modules
+- Designed a concept featuring a five-degree-of-freedom robotic arm.
+- Developed mechanical prototypes using SolidWorks.
+- Incorporated Bluetooth communication into the system design.
+- Proposed interchangeable modules for different home-assistance functions.
+
+**Technologies:** SolidWorks, Bluetooth, robotics, mechanical design, system design
+
+---
 
 ### 🚲 Bicycle Tire Pressure Monitor
 
-Developed an Arduino-based sensing system that:
+An Arduino-based sensing system designed to monitor bicycle tire pressure.
 
-- Tracks tire-pressure changes
-- Processes pressure measurements
-- Alerts the rider when the pressure falls below a defined threshold
+- Tracked changes in tire-pressure measurements.
+- Processed pressure-sensor data using a microcontroller.
+- Alerted the rider when pressure fell below a defined safe range.
+
+**Technologies:** Arduino, embedded systems, sensors, real-time monitoring
 
 ---
 
 ## 🎓 Education
 
+### Simon Fraser University  
 **Bachelor of Applied Science in Engineering Science**  
-**Systems Engineering Option**  
-Simon Fraser University, Burnaby, British Columbia
+**Systems Engineering Option | 2020 – 2026**
+
+Relevant areas of study included embedded systems, control systems, robotics, sensors and actuators, real-time systems, electronics, data structures, software development, and engineering design.
 
 ---
 
 <p align="center">
-  <i>Interested in embedded systems, controls, robotics, automation, and practical engineering tools.</i>
+  <i>Interested in embedded systems, controls, robotics, automation, AI-assisted tools, and practical engineering systems.</i>
 </p>
