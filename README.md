@@ -163,7 +163,7 @@ A Python-based automation project designed to organize professional outreach and
 
 ---
 
-### 🔌 ElectroDraw Smart Breadboard
+### 🔌 ElectroDraw
 
 A capstone system designed to identify electrical circuit connections and automatically generate a digital schematic.
 
